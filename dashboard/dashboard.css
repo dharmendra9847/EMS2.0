@@ -1,0 +1,10 @@
+.text-gradient {
+  background: #0e82cf;
+  background: linear-gradient(to top, #0e82cf 0%, #0acf0a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.vr {
+  color: white;
+}
